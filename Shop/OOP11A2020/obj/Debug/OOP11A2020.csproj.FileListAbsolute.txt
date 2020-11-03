@@ -5,3 +5,10 @@ C:\Users\AlexAsenov\source\repos\Shop\OOP11A2020\obj\Debug\OOP11A2020.csprojAsse
 C:\Users\AlexAsenov\source\repos\Shop\OOP11A2020\obj\Debug\OOP11A2020.csproj.CoreCompileInputs.cache
 C:\Users\AlexAsenov\source\repos\Shop\OOP11A2020\obj\Debug\OOP11A2020.exe
 C:\Users\AlexAsenov\source\repos\Shop\OOP11A2020\obj\Debug\OOP11A2020.pdb
+C:\Users\AlexAsenov\source\repos\gits\OOP11A2020\Shop\OOP11A2020\bin\Debug\OOP11A2020.exe.config
+C:\Users\AlexAsenov\source\repos\gits\OOP11A2020\Shop\OOP11A2020\bin\Debug\OOP11A2020.exe
+C:\Users\AlexAsenov\source\repos\gits\OOP11A2020\Shop\OOP11A2020\bin\Debug\OOP11A2020.pdb
+C:\Users\AlexAsenov\source\repos\gits\OOP11A2020\Shop\OOP11A2020\obj\Debug\OOP11A2020.csprojAssemblyReference.cache
+C:\Users\AlexAsenov\source\repos\gits\OOP11A2020\Shop\OOP11A2020\obj\Debug\OOP11A2020.csproj.CoreCompileInputs.cache
+C:\Users\AlexAsenov\source\repos\gits\OOP11A2020\Shop\OOP11A2020\obj\Debug\OOP11A2020.exe
+C:\Users\AlexAsenov\source\repos\gits\OOP11A2020\Shop\OOP11A2020\obj\Debug\OOP11A2020.pdb

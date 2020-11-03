@@ -12,6 +12,7 @@ namespace OOP11A2020
         {
             var View = new View();
             View.Menu();
+            View.Menu();
 
             string name = Console.ReadLine();
         }
