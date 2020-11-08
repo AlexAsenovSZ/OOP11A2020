@@ -11,6 +11,8 @@ namespace OOP11A2020
         public string shopName = "Shop Name";
         protected string shopType = "Shop Type";
 
+        public static Dictionary<int, Goods> products;
+               
 
     }
 }

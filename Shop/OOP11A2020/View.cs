@@ -9,10 +9,18 @@ namespace OOP11A2020
     class View:Setting
     {
         private int lineCountChar = 10;
-        public void Menu()
+        public int Menu()
         {
+            Console.Clear();
             Console.WriteLine("Welcome, {0}", this.shopName);
             PrintLine('-');
+            Console.WriteLine("\t 1) Create ");
+            Console.WriteLine("\t 2) List");
+            Console.WriteLine("\t 3) Exit");
+            PrintLine('-');
+            Console.Write("Choise: ");
+            int num = int.Parse(Console.ReadLine()); 
+            return num;
         }
 
         private void PrintLine(char ch)

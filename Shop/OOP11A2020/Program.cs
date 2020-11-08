@@ -10,10 +10,16 @@ namespace OOP11A2020
     {
         static void Main(string[] args)
         {
-            var View = new View();
-            View.Menu();
-
-            string name = Console.ReadLine();
+            Setting.products = new Dictionary<int, Goods>();
+            Controll Controll = new Controll();
+            View View = new View();
+            int i = 0;
+            while (true)
+            {
+                Controll.MenuController(View.Menu());
+                i++;
+            }
+            Setting.products = null;
         }
     }
 }
