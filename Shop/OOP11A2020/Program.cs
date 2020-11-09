@@ -9,7 +9,7 @@ namespace OOP11A2020
     class Program
     {
         static void Main(string[] args)
-        {
+        { 
             Setting.products = new Dictionary<int, Goods>();
             Controll Controll = new Controll();
             View View = new View();
@@ -19,7 +19,7 @@ namespace OOP11A2020
                 Controll.MenuController(View.Menu());
                 i++;
             }
-            Setting.products = null;
+            Setting.products = null; 
         }
     }
 }
